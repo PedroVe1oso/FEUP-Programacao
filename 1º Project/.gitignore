@@ -1,0 +1,6 @@
+build/
+cmake-build-debug/
+data/
+external/gtest/
+.cpack_ignore
+.idea/
